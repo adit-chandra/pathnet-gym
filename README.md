@@ -1,4 +1,4 @@
-# Pathnet for OpenAI Gym Environments
+# PathNet for OpenAI Gym Environments
 
 ## Overview
 
